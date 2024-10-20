@@ -38,7 +38,7 @@
     -  this has a leaderboard [KURT!!!] and has challanges that change all the time 
     -  well known and is actually something you can put on your resume
     --- 
-#### goldbug challanges
+#### Goldbug challanges
 - website
     -  https://bbs.goldbug.cryptovillage.org/puzzles.html
 -  description  
