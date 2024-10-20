@@ -15,7 +15,7 @@
 -  [Walkthroughs](Database/Walkthroughs)
     -  **SPOILER ALERT** *General concense on how to find the flags for each game*
 
-## This is our most commonly used games. Use the list above for a more extensive list 
+## This is our most commonly used games. Use the section above for a more extensive list 
 --- 
 # [Overthewire](https://rickroll.it/rickroll.mp4)
 -  website
