@@ -35,7 +35,7 @@
 -  website
     -  https://www.hackthebox.com/
 - description
-    -  this has a leaderboard [_KURT_] and has challanges that change all the time 
+    -  this has a leaderboard [_**KURT**_] and has challanges that change all the time 
     -  well known and is actually something you can put on your resume
 --- 
 ## Goldbug challanges
