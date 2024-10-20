@@ -63,4 +63,5 @@
     -  this also has a ton of resources to help
 ---
 ###### Buckley sent me some crpyto stuff and i cant remeber[
-[ree](google.com)
+[ree](https://rickroll.it/rickroll.mp4)
+
