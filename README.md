@@ -1,4 +1,18 @@
 # CTF
+---
+# Directory
+
+-[wargames](Wargames.md)
+
+
+
+
+
+
+
+
+
+## This is our most commonly used games. Use the list above for a more extensive list 
 --- 
 # [Overthewire](https://rickroll.it/rickroll.mp4)
 -  website
