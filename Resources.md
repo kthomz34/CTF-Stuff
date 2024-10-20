@@ -1,11 +1,14 @@
 # Table of contents
-### Hacking specific OS
-    -  [Kali](https://www.kali.org)
-    -  [BlackArch](https://blackarch.org)
+## Hacking specific OS
+
+-  [Kali](https://www.kali.org/)
+-  [BlackArch](https://blackarch.org)
+    
+
 ---
 
-# Tools
-
+## Tools
+---
 ## Networking
 *tools for looking at network traffic and seeing open ports*
 -  Masscan
@@ -14,7 +17,7 @@
 
 ---
 
-### Exploits
+## Exploits
     -  Metasploit
     -  Pwntools
     -  DLLinjector
