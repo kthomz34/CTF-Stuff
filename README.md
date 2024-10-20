@@ -13,7 +13,7 @@
 -  [User list](Database/User)
     *List of contributers who are living that CTF life. The files in each folder is a collection of their Write-ups and small code snippets.*
 -  [Walkthroughs](Database/Walkthroughs)
-    *** SPOILER ALERT*** *General concense on how to find the flags for each game*
+    **SPOILER ALERT** *General concense on how to find the flags for each game*
 
 ## This is our most commonly used games. Use the list above for a more extensive list 
 --- 
