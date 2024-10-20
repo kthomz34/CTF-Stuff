@@ -6,7 +6,7 @@
     -  *This has a full list of wargames, online and offline*
 -  [Tutorial](Database/tutorials.md)
     -  *This has some very entry level information and is a great jump off point. CTF is as much about skill set as it is a way of thinking*
--  [Info about CTFs](Database/Info\about\ctfs.md)
+-  [Info about CTFs](<Database/Info about ctfs.md>)
     -  *Write-ups, Cheat sheets, and Wikis specific to CTF*    
 -  [Resources](Database/Resources.md)
     -  *This is mostly tools to help. All open source. Most(if not all) run on linux* 
