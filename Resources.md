@@ -2,8 +2,8 @@
 ## Hacking specific OS
 
 -  [Kali](https://www.kali.org/)
-    -  [BlackArch](https://blackarch.org)
-    [test](www.google.com)
+-  [BlackArch](https://blackarch.org)
+    
 
 ---
 [test](www.google.com)
