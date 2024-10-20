@@ -3,17 +3,17 @@
 # Directory
 
 -  [wargames](Database/Wargames.md)
-    *This has a full list of wargames, online and offline*
+    -  *This has a full list of wargames, online and offline*
 -  [Tutorial](Database/tutorials.md)
-    *This has some very entry level information and is a great jump off point. CTF is as much about skill set as it is a way of thinking*
+    -  *This has some very entry level information and is a great jump off point. CTF is as much about skill set as it is a way of thinking*
 -  [Info about CTFs](Database/info\about\CTFs.md)
-    *Write-ups, Cheat sheets, and Wikis specific to CTF*    
+    -  *Write-ups, Cheat sheets, and Wikis specific to CTF*    
 -  [Resources](Database/Resources.md)
-    *This is mostly tools to help. All open source. Most(if not all) run on linux* 
+    -  *This is mostly tools to help. All open source. Most(if not all) run on linux* 
 -  [User list](Database/User)
-    *List of contributers who are living that CTF life. The files in each folder is a collection of their Write-ups and small code snippets.*
+    -  *List of contributers who are living that CTF life. The files in each folder is a collection of their Write-ups and small code snippets.*
 -  [Walkthroughs](Database/Walkthroughs)
-    **SPOILER ALERT** *General concense on how to find the flags for each game*
+    -  **SPOILER ALERT** *General concense on how to find the flags for each game*
 
 ## This is our most commonly used games. Use the list above for a more extensive list 
 --- 
