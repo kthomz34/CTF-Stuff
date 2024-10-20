@@ -1,0 +1,5 @@
+# Commands to beat the level
+
+cd inhere
+find -type f | xargs file | grep text
+cat ./-file07
