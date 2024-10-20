@@ -7,7 +7,7 @@
 
 ---
 
-# Tools
+## Tools
 ---
 ## Networking
 *tools for looking at network traffic and seeing open ports*
