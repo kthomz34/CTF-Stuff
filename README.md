@@ -31,21 +31,21 @@
     The purpose of this lab is to give pentesters a vulnerable Active directory environment ready 
     to use to practice usual attack techniques.
     ---
-### Hack the box
+## Hack the box
 -  website
     -  https://www.hackthebox.com/
 - description
     -  this has a leaderboard [KURT!!!] and has challanges that change all the time 
     -  well known and is actually something you can put on your resume
     --- 
-#### Goldbug challanges
+## Goldbug challanges
 - website
     -  https://bbs.goldbug.cryptovillage.org/puzzles.html
 -  description  
     -  this is more crtptography focused
     -  its hard to even understand what you should be doing
     ---
-##### Pico CTF
+## Pico CTF
 -  website
     -  https://picoctf.org/
 -  description
