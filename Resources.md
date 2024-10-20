@@ -8,9 +8,9 @@
 
 ## Networking
 *tools for looking at network traffic and seeing open ports*
-    -  Masscan
-    -  Nmap
-    -  Wireshark
+-  Masscan
+-  Nmap
+-  Wireshark
 
 ---
 
