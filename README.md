@@ -1,4 +1,3 @@
-
 # CTF
 --- 
 # Overthewire   
@@ -39,4 +38,28 @@
     -  this has a leaderboard [KURT!!!] and has challanges that change all the time 
     -  well known and is actually something you can put on your resume
     --- 
-#### I will add to this later
+#### goldbug challanges
+- website
+    -  https://bbs.goldbug.cryptovillage.org/puzzles.html
+-  description  
+    -  this is more crtptography focused
+    -  its hard to even understand what you should be doing
+    ---
+##### Pico CTF
+-  website
+    -  https://picoctf.org/
+-  description
+    -  made by Carnigy Melon
+    -  this is very entry level CTF
+    -  this is targeted at highschool kids but is pretty good at teaching so basic skillsets
+    -  you will need some open source software to complete some of these
+    -  focues on all diffent types of CTF
+        -  web exploits
+        -  crtptography
+        -  reverse engineering 
+        -  forensics
+        -  general skills
+        -  binary exploits
+    -  this also has a ton of resources to help
+---
+###### Buckley sent me some crpyto stuff and i cant remeber.
