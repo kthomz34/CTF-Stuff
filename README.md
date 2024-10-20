@@ -4,7 +4,7 @@
 -  website
     -  https://overthewire.org/wargames/
 -  games
-    -  [Bandit](https://github.com/Neuron89/CTF-Stuff/tree/main/Walkthroughs/overthewire)
+    -  [Bandit](https://github.com/Neuron89/CTF-Stuff/tree/main/Walkthroughs/overthewire/badit)
         -  entry level
         - mostly focused on cmd line usage and file searcing
         -  targeted at teachinng how to navigate a directory and use built in commands
