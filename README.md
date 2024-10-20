@@ -2,7 +2,7 @@
 ---
 # Directory
 
--[wargames](Wargames.md)
+-[wargames](Database/Wargames.md)
 
 
 
